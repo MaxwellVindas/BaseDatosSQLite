@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">"BaseDatosSQLite "</string>
+    <string name="action_settings">"Setting "</string>
+    <string name="hello_world">"Hello World "</string>
+    <string name="val">"Nombre: "</string>
+    <string name="nreg">"Email: "</string>
+    <string name="insertar">"Insert "</string>
+    <string name="actuaizar">"Update "</string>
+    <string name="eliminar">"Delete "</string>
+    <string name="consultar">"Consult "</string>
+
+
+</resources>
